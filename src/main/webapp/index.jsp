@@ -3,11 +3,11 @@
 <title>Hello World!</title>
 </head>
 <body>
-	<h1>Welcome to CIT Technologies...!!!</h1>
+	<h1>siva completed this project...!!!</h1>
 	<p>
 		It is now
 		<%= new java.util.Date() %></p>
 	<p>
-		You are coming from 
+		wel come to devops
 		<%= request.getRemoteAddr()  %></p>
 </body>
